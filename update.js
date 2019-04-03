@@ -1,3 +1,10 @@
+//****************************************************************
+//                 CODE FROM FILE "update.js".
+//
+// This file has all the functions that handles updating the game
+// state in every frame. 
+//****************************************************************
+
   function update()
   {
     //console.log(game.pause);

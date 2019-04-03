@@ -1,3 +1,10 @@
+//****************************************************************
+//                 CODE FROM FILE "engine.js".
+//
+// This file has all the functions that handle initializing,
+// updating, and reseting the game board state.
+//****************************************************************
+
   function startLevel(level)
   {
     if(level > game.level)

@@ -1,3 +1,10 @@
+//****************************************************************
+//                 CODE FROM FILE "main.js".
+//
+// This file declares and initializes all global variables and,
+// handels all page events. 
+//****************************************************************
+
   var ctx;
   var playLoop;
   var fps = 30;

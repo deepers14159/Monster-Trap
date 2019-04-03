@@ -1,3 +1,10 @@
+//****************************************************************
+//                 CODE FROM FILE "render.js".
+//
+// This file has all the functions that handle rendering different
+// screens of the game on the HTML canvas.
+//****************************************************************
+
   function render()
   {
       resetRender();
