@@ -2,7 +2,7 @@
 
 A two player game made on the JavaScript canvas.
 
-# Credits:
+# Credits
 
 Title Font - https://www.1001fonts.com/permanent-marker-font.html
 
